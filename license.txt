@@ -1,0 +1,2 @@
+not a license file.
+to test git pull and git fetch
